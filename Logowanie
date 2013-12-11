@@ -1,0 +1,11 @@
+using System;
+public class Logowanie {
+	public void Zaloguj() {
+		throw new System.Exception("Not implemented");
+	}
+
+	private Lista_Uzytkowników lista_Uzytkowników;
+
+	private Interface interface;
+
+}
