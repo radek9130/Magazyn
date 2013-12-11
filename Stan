@@ -1,0 +1,9 @@
+using System;
+public class Stan {
+	public void Sprawdz() {
+		throw new System.Exception("Not implemented");
+	}
+
+	private Lista_Towarów lista_Towarów;
+
+}
