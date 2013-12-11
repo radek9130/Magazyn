@@ -1,0 +1,8 @@
+using System;
+public class Lista_towarów_arch {
+	private Towary towary;
+	private Korekty korekty;
+
+	private Zarządzanie zarządzanie;
+
+}
