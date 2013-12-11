@@ -1,0 +1,20 @@
+using System;
+public class Zarządzanie {
+	public void Przenies() {
+		throw new System.Exception("Not implemented");
+	}
+	public void Wyszukaj() {
+		throw new System.Exception("Not implemented");
+	}
+	public void Przyjecie() {
+		throw new System.Exception("Not implemented");
+	}
+	public void Wydanie() {
+		throw new System.Exception("Not implemented");
+	}
+
+	private Interface interface;
+	private Lista_towarów_arch lista_towarów_arch;
+	private Lista_Towarów lista_Towarów;
+
+}
