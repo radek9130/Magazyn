@@ -1,0 +1,15 @@
+using System;
+public class Towary {
+	private int id;
+	private string nazwa;
+	private double ilosc;
+	private double cena;
+	private String data_waznosci;
+
+	private Położenie położenie;
+	private Gabaryt gabaryt;
+
+	private Lista_towarów_arch lista_towarów_arch;
+	private Lista_Towarów lista_Towarów;
+
+}
