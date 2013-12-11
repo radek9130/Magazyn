@@ -1,0 +1,12 @@
+using System;
+public class Wydruk {
+	public void Drukuj() {
+		throw new System.Exception("Not implemented");
+	}
+
+	private Wydruk wydruk2;
+	private Interface interface;
+
+	private Wydruk wydruk;
+
+}
