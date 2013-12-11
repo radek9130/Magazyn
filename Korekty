@@ -1,0 +1,21 @@
+using System;
+public class Korekty {
+	public void Kceny() {
+		throw new System.Exception("Not implemented");
+	}
+	public void Kstanu() {
+		throw new System.Exception("Not implemented");
+	}
+	public void Kpolozenia() {
+		throw new System.Exception("Not implemented");
+	}
+	public void Usuniecie_pozycji() {
+		throw new System.Exception("Not implemented");
+	}
+
+	private Dokumentacja dokumentacja;
+
+	private Lista_Towarów lista_Towarów;
+	private Lista_towarów_arch lista_towarów_arch;
+
+}
