@@ -1,0 +1,10 @@
+using System;
+public class Gabaryt {
+	private double wymiar_a;
+	private double wymiar_b;
+	private double wymiar_c;
+	private double masa;
+
+	private Towary towary;
+
+}
