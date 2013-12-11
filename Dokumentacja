@@ -1,0 +1,9 @@
+using System;
+public class Dokumentacja {
+	public void Utworz_note() {
+		throw new System.Exception("Not implemented");
+	}
+
+	private Korekty korekty;
+
+}
