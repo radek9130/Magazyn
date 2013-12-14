@@ -14,7 +14,7 @@ public class Zarządzanie {
 	}
 
 	private Interface interface;
-	private Lista_towarów_arch lista_towarów_arch;
-	private Lista_Towarów lista_Towarów;
+	private Element_Listy_towarów_archiwalnych element_listy_towarów_archiwalnych;
+	private Element_Listy_Towarów element_listy_towarów;
 
 }
