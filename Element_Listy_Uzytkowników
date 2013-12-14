@@ -1,5 +1,5 @@
 using System;
-public class Lista_Uzytkowników {
+public class Element_Listy_Uzytkowników {
 	private string login;
 	private string haslo;
 	private int uprawnienia;
