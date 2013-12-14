@@ -4,7 +4,7 @@ public class Logowanie {
 		throw new System.Exception("Not implemented");
 	}
 
-	private Lista_Uzytkowników lista_Uzytkowników;
+	private Element_Listy_Uzytkowników element_listy_uzytkowników;
 
 	private Interface interface;
 
