@@ -1,5 +1,5 @@
 using System;
-public class Lista_towarów_archiwalnych {
+public class Element_Listy_towarów_archiwalnych {
 	private Towary towary;
 	private Korekty korekty;
 	
