@@ -2,3 +2,4 @@ Kierownik projektu: Lurthel
 Supervisor: pwrzec1
 ck321
 depesz101
+Bartek91
