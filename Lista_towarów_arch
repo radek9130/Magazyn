@@ -1,7 +1,8 @@
 using System;
-public class Lista_towarów_arch {
+public class Lista_towarów_archiwalnych {
 	private Towary towary;
 	private Korekty korekty;
+	
 
 	private Zarządzanie zarządzanie;
 
