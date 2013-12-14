@@ -1,5 +1,5 @@
 using System;
-public class Lista_Towarów {
+public class Element_Listy_Towarów {
 	private Stan stan;
 	private Towary towary;
 	private Korekty korekty;
