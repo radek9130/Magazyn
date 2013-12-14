@@ -1,8 +1,8 @@
 using System;
 public class Gabaryt {
-	private double wymiar_a;
-	private double wymiar_b;
-	private double wymiar_c;
+	private double szerokosc;
+	private double glebokosc;
+	private double wysokosc;
 	private double masa;
 
 	private Towary towary;
