@@ -3,6 +3,7 @@ public class Towary {
 	private int id;
 	private string nazwa;
 	private double ilosc;
+	private string jednostka;
 	private double cena;
 	private String data_waznosci;
 
