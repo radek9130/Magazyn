@@ -15,7 +15,7 @@ public class Korekty {
 
 	private Dokumentacja dokumentacja;
 
-	private Lista_Towarów lista_Towarów;
-	private Lista_towarów_arch lista_towarów_arch;
+	private Lista_Towarow lista_Towarow;
+	private Lista_towarow_arch lista_towarow_arch;
 
 }
