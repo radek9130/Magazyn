@@ -10,7 +10,7 @@ public class Towary {
 	private Położenie położenie;
 	private Gabaryt gabaryt;
 
-	private Element_Listy_towarów_archiwalnych element_listy_towarów_archiwalnych;
+	private Element_Listy_towarow_archiwalnych element_listy_towarow_archiwalnych;
 	private Element_Listy_Towarów element_listy_towarów;
 
 }
