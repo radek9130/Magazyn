@@ -16,6 +16,6 @@ public class Korekty {
 	private Dokumentacja dokumentacja;
 
 	private Lista_Towarow lista_Towarow;
-	private Lista_towarow_arch lista_towarow_arch;
+	private Lista_towarow_archiwalnych lista_towarow_archiwalnych;
 
 }
