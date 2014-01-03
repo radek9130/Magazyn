@@ -4,6 +4,6 @@ public class Element_Listy_towarow_archiwalnych {
 	private Korekty korekty;
 	
 
-	private Zarządzanie zarządzanie;
+	private Zarzadzanie zarzadzanie;
 
 }
