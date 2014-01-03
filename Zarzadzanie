@@ -1,5 +1,5 @@
 using System;
-public class Zarządzanie {
+public class Zarzadzanie {
 	public void Przenies() {
 		throw new System.Exception("Not implemented");
 	}
@@ -14,7 +14,7 @@ public class Zarządzanie {
 	}
 
 	private Interface interface;
-	private Element_Listy_towarów_archiwalnych element_listy_towarów_archiwalnych;
-	private Element_Listy_Towarów element_listy_towarów;
+	private Element_Listy_towarow_archiwalnych element_listy_towarow_archiwalnych;
+	private Element_Listy_Towarow element_listy_towarow;
 
 }
