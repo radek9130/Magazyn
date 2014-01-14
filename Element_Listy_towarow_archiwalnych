@@ -1,9 +1,0 @@
-using System;
-public class Element_Listy_towarow_archiwalnych {
-	private Towary towary;
-	private Korekty korekty;
-	
-
-	private Zarzadzanie zarzadzanie;
-
-}

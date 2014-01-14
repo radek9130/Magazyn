@@ -1,9 +1,0 @@
-using System;
-public class Element_Listy_Towarow {
-	private Stan stan;
-	private Towary towary;
-	private Korekty korekty;
-
-	private Zarzadzanie zarzadzanie;
-
-}

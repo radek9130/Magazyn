@@ -1,9 +1,0 @@
-using System;
-public class Polozenie {
-	private int regal;
-	private int miejsce;
-	private int id_budynku;
-
-	private Towary towary;
-
-}

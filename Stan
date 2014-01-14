@@ -1,9 +1,0 @@
-using System;
-public class Stan {
-	public void Sprawdz() {
-		throw new System.Exception("Not implemented");
-	}
-
-	private Lista_Towarow lista_Towarow;
-
-}

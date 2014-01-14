@@ -1,9 +1,0 @@
-using System;
-public class Element_Listy_Uzytkownikow {
-	private string login;
-	private string haslo;
-	private int uprawnienia;
-
-	private Logowanie logowanie;
-
-}

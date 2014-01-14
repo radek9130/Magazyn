@@ -1,9 +1,0 @@
-C:\Users\Sebastian\AppData\Local\Temporary Projects\Magazyn\bin\Debug\Magazyn.exe
-C:\Users\Sebastian\AppData\Local\Temporary Projects\Magazyn\bin\Debug\Magazyn.pdb
-C:\Users\Sebastian\AppData\Local\Temporary Projects\Magazyn\obj\x86\Debug\Magazyn.Form1.resources
-C:\Users\Sebastian\AppData\Local\Temporary Projects\Magazyn\obj\x86\Debug\Magazyn.Properties.Resources.resources
-C:\Users\Sebastian\AppData\Local\Temporary Projects\Magazyn\obj\x86\Debug\Magazyn.csproj.GenerateResource.Cache
-C:\Users\Sebastian\AppData\Local\Temporary Projects\Magazyn\obj\x86\Debug\Magazyn.exe
-C:\Users\Sebastian\AppData\Local\Temporary Projects\Magazyn\obj\x86\Debug\Magazyn.pdb
-C:\Users\Sebastian\documents\visual studio 2010\Projects\Magazyn\Magazyn\obj\x86\Debug\Magazyn.exe
-C:\Users\Sebastian\documents\visual studio 2010\Projects\Magazyn\Magazyn\obj\x86\Debug\Magazyn.pdb

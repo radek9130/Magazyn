@@ -1,7 +1,0 @@
-using System;
-public class Interface {
-	private Wydruk wydruk;
-	private Logowanie logowanie;
-	private Zarzadzanie zarzadzanie;
-
-}
