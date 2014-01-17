@@ -18,9 +18,7 @@ namespace ObslugaMagazynuLib.Kontrahenci
         protected bool changeflag;
 
         public bool ChangedFlag { get; set; }
-        /// <summary>
-        /// Konstruktor klasy z parametrami
-        /// </summary>
+      
        
         public Kontrahent(int ID = 0, string NAZWA = null, string ADRES = null, long NIP = 0, long REGON = 0, long PESEL = 0, string NUMER = null, string DATA = null)
         {
@@ -44,9 +42,7 @@ namespace ObslugaMagazynuLib.Kontrahenci
                 id = value;
             }
         }
-        /// <summary>
-        /// nim 4 znaki
-        /// </summary>
+        
         public string Adres
         {
             get
@@ -65,9 +61,7 @@ namespace ObslugaMagazynuLib.Kontrahenci
                 }
             }
         }
-        /// <summary>
-        /// nim 4 znaki
-        /// </summary>
+        
         public string Nazwa
         {
             get
@@ -86,9 +80,7 @@ namespace ObslugaMagazynuLib.Kontrahenci
                 }
             }
         }
-        /// <summary>
-        /// NIP min 10 znaków
-        /// </summary>
+        
         public long Nip
         {
             get
@@ -107,9 +99,7 @@ namespace ObslugaMagazynuLib.Kontrahenci
                 }
             }
         }
-        /// <summary>
-        /// regon min 9 znaków
-        /// </summary>
+       
         public long Regon
         {
             get
@@ -128,9 +118,7 @@ namespace ObslugaMagazynuLib.Kontrahenci
                 }
             }
         }
-        /// <summary>
-        /// pesel min 11 znaków
-        /// </summary>
+        
         public long Pesel
         {
             get
@@ -149,9 +137,7 @@ namespace ObslugaMagazynuLib.Kontrahenci
                 }
             }
         }
-        /// <summary>
-        /// weryfikacja czy długość ciągu nr telefony ma przynajmniej 6 znaków
-        /// </summary>
+        
         public string Nr_kontaktowy
         {
             get
@@ -176,9 +162,7 @@ namespace ObslugaMagazynuLib.Kontrahenci
             set;
             get;
         }
-        /// <summary>
-        /// Nadpisana metoda ToString zwracająca dane kontrachenta w formie w jakiej występują na dokumentach.
-        /// </summary>
+      
         
         public override string ToString()
         {
